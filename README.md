@@ -1,3 +1,7 @@
+
+> [!IMPORTANT]  
+> This script is now un-usable as Synapse X is discontinued
+
 # SynSpy
 The Synapse X remote spy
 
